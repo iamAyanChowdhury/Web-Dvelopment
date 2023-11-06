@@ -1,0 +1,35 @@
+body
+{
+    background-color: black;
+}
+
+#image
+{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+}
+#heading
+{
+font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+color: white;
+width: 50%;
+margin-left: 25%;
+margin-top: 100px;
+text-align: center;
+}
+#paragraph
+{
+width: 50%;
+margin-left: 25%;
+color: white;
+text-align: center;
+font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+}
+#pic
+{
+    width: 100%
+    
+}
